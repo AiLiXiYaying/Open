@@ -1,0 +1,3 @@
+C:/Users/KIANA/Desktop/My_Project/My_OpenGL/Open/build/CMakeFiles/glStudy.dir
+C:/Users/KIANA/Desktop/My_Project/My_OpenGL/Open/build/CMakeFiles/edit_cache.dir
+C:/Users/KIANA/Desktop/My_Project/My_OpenGL/Open/build/CMakeFiles/rebuild_cache.dir

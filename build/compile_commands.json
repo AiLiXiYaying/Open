@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/KIANA/Desktop/My_Project/My_OpenGL/Open/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/glStudy.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\glStudy.dir\\main.cpp.obj -c C:\\Users\\KIANA\\Desktop\\My_Project\\My_OpenGL\\Open\\main.cpp",
+  "file": "C:/Users/KIANA/Desktop/My_Project/My_OpenGL/Open/main.cpp",
+  "output": "CMakeFiles/glStudy.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/KIANA/Desktop/My_Project/My_OpenGL/Open/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/glStudy.dir/includes_C.rsp -g -o CMakeFiles\\glStudy.dir\\glad.c.obj -c C:\\Users\\KIANA\\Desktop\\My_Project\\My_OpenGL\\Open\\glad.c",
+  "file": "C:/Users/KIANA/Desktop/My_Project/My_OpenGL/Open/glad.c",
+  "output": "CMakeFiles/glStudy.dir/glad.c.obj"
+}
+]
